@@ -1,5 +1,6 @@
 # Python_ImportantLibraries_InstallationScript
-Just Run the Command
+Just Run the Commands
+
 `sudo -i`
 
 `python3 Librarie.py`
